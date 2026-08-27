@@ -39,3 +39,9 @@ exclude:
   - "Gemfile.lock"
   - "node_modules"
   - "vendor"
+
+  title: "Portafolio de Diego Ignacio Castro Benavides"
+
+description: "Página web personal"
+
+theme: just-the-docs

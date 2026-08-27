@@ -30,18 +30,3 @@ search:
 aux_links:
   "Repositorio en GitHub":
     - "https://github.com/HuberGiron/portafolio-just-the-docs"
-
-# Enlaces
-permalink: pretty
-
-exclude:
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "node_modules"
-  - "vendor"
-
-  title: "Portafolio de Diego Ignacio Castro Benavides"
-
-description: "Página web personal"
-
-theme: just-the-docs

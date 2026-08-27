@@ -38,6 +38,7 @@
 ---
 
 ## 📬 ¡Conectemos!
+A2708374@correo.uia.mx
 
 <p align="left">
   <a href="mailto:tu-correo@ejemplo.com">

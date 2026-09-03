@@ -1,50 +1,103 @@
-# ¡Hola! Soy Diego Ignacio Castro Benavides 👋
-
-<img src="https://via.placeholder.com/150" alt="Diego Ignacio Castro Benavides" align="right" width="150" style="border-radius: 50%;" />
-
-🎓 **Estudiante de primer semestre de Ingeniería Mecatrónica**  
-⚙️ Apasionado por la robótica, la automatización, la electrónica y la programación. En constante aprendizaje para integrar el software con el mundo físico.
-
+---
+layout: default
+title: Inicio
+nav_order: 1
 ---
 
-## 🚀 Sobre mí
+<div class="hero-futuristic">
 
-- 📚 Actualmente cursando el **1er Semestre** de la carrera de Mecatrónica.
-- 🛠️ Explorando los fundamentos de la programación, circuitos eléctricos y diseño CAD.
-- 🎯 Mi objetivo es participar en proyectos de robótica, mecatrónica médica o automatización industrial.
-- 💡 Siempre abierto a colaborar en proyectos iniciales de tecnología y mecatrónica.
+<div class="hero-number">01 / PORTFOLIO</div>
 
----
+<h1>Diego Ignacio<br><span>Castro Benavides</span></h1>
 
-## 🛠️ Habilidades y Tecnologías
+<div class="hero-line"></div>
 
-| Área | Tecnologías / Herramientas |
-| :--- | :--- |
-| **Programación** | C, C++, Python *(En proceso)* |
-| **Hardware** | Arduino, Fundamentos de Electrónica |
-| **Diseño / CAD** | SolidWorks / Fusion 360 *(Primeros pasos)* |
-| **Herramientas** | Git, GitHub |
-
----
-
-## 📸 Galería
-
-<!-- Reemplaza las URL de las imágenes por tus fotos reales o proyectos -->
-<p align="center">
-  <img src="https://via.placeholder.com/400x250?text=Foto+o+Proyecto+1" width="45%" />
-  <img src="https://via.placeholder.com/400x250?text=Foto+o+Proyecto+2" width="45%" />
+<p class="hero-career">
+INGENIERÍA MECATRÓNICA
 </p>
 
+<p class="hero-description">
+Estudiante de Ingeniería Mecatrónica interesado en tecnología,
+automatización, robótica, electrónica y desarrollo de sistemas.
+</p>
+
+<div class="hero-buttons">
+
+<a href="{{ site.baseurl }}/proyectos/" class="btn-future">
+VER PROYECTOS →
+</a>
+
+<a href="{{ site.baseurl }}/practicas/" class="btn-future-outline">
+VER PRÁCTICAS
+</a>
+
+</div>
+
+</div>
+
 ---
 
-## 📬 ¡Conectemos!
-A2708374@correo.uia.mx
+## 02 / SOBRE ESTE PORTAFOLIO
 
-<p align="left">
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+Este espacio reúne parte de mi formación académica, proyectos,
+prácticas y conocimientos desarrollados durante mi trayectoria
+en Ingeniería Mecatrónica.
+
+<div class="stats-grid">
+
+<div class="stat-box">
+<span>01</span>
+<h3>MECATRÓNICA</h3>
+<p>Diseño y desarrollo de sistemas.</p>
+</div>
+
+<div class="stat-box">
+<span>02</span>
+<h3>AUTOMATIZACIÓN</h3>
+<p>Control y optimización de procesos.</p>
+</div>
+
+<div class="stat-box">
+<span>03</span>
+<h3>TECNOLOGÍA</h3>
+<p>Programación y electrónica.</p>
+</div>
+
+</div>
+
+---
+
+## 03 / ÁREAS DE INTERÉS
+
+<div class="interest-grid">
+
+<div>⚙️ Mecánica</div>
+<div>⚡ Electrónica</div>
+<div>💻 Programación</div>
+<div>🤖 Robótica</div>
+<div>🏭 Automatización</div>
+<div>📐 Diseño CAD</div>
+
+</div>
+
+---
+
+> **"Transformar ideas en sistemas que funcionan."**
+
+<div class="terminal-box">
+
+<span>$</span> Diego_Castro / Ingeniería_Mecatrónica
+
+<br>
+
+<span>></span> Portfolio initialized...
+
+<br>
+
+<span>></span> Projects loaded...
+
+<br>
+
+<span>></span> Future engineer: online_
+
+</div>

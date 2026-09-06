@@ -1,20 +1,19 @@
 title: "Diego Ignacio Castro Benavides"
 description: "Portafolio académico | Ingeniería Mecatrónica | IBERO"
 
-theme: just-the-docs
+theme: "just-the-docs"
 
 url: "https://cadiego456-web.github.io"
 baseurl: "/portafolio-just-the-docs"
 
-color_scheme: dark
+color_scheme: "dark"
 
 search_enabled: true
 
 heading_anchors: true
 
 aux_links:
-  "GitHub":
-    - "https://github.com/cadiego456-web/portafolio-just-the-docs"
+  "GitHub": "https://github.com/cadiego456-web/portafolio-just-the-docs"
 
 footer_content: "© 2026 Diego Ignacio Castro Benavides · Ingeniería Mecatrónica"
 

@@ -16,7 +16,7 @@
   background: #0e0e0e;
   border: 1px solid #292929;
   text-decoration: none !important;
-  color: white !important;
+    color: #ffffff !important;
   position: relative;
   overflow: hidden;
   transition: all 0.3s ease;
@@ -35,7 +35,7 @@
 
 .practice-card:hover {
   transform: translateY(-5px);
-  border-color: #444;
+  border-color: #444444;
 }
 
 .practice-card:hover::before {
@@ -48,6 +48,7 @@
   letter-spacing: 3px;
   font-weight: bold;
 }
+
 .practice-card h2 {
   margin-top: 45px !important;
   font-size: 25px !important;
@@ -58,7 +59,7 @@
 }
 
 .practice-card p {
-  color: #888;
+  color: #888888;
 }
 
 .practice-link {
@@ -70,10 +71,9 @@
   font-weight: bold;
 }
 
+/* Responsivo para dispositivos móviles */
 @media (max-width: 700px) {
-
   .practice-grid {
     grid-template-columns: 1fr;
   }
-
 }

@@ -6,17 +6,15 @@ nav_order: 3
 
 # Prácticas
 
-<div class="practice-grid">
-  <a class="practice-card" href="{{ site.baseurl }}/05%20Reportes-practicas/">
-    <span class="practice-number">01 / REPORTES</span>
-    <h2>Reportes de prácticas</h2>
-    <p>Consulta los reportes y evidencias de las prácticas realizadas durante la formación académica.</p>
-    <span class="practice-link">ABRIR →</span>
-  </a>
+<div class="terminal-box">
+  <span>></span> MECHATRONICS LAB // ARDUINO SECTION
+</div>
 
-  <div class="practice-card">
-    <span class="practice-number">02 / LAB</span>
-    <h2>Próximamente</h2>
-    <p>Espacio preparado para nuevas prácticas, fotografías, resultados y documentación técnica.</p>
-  </div>
+<div class="practice-grid">
+  <a class="practice-card" href="{{ site.baseurl }}/practicas-arduino/">
+    <span class="practice-number">01 / ARDUINO LAB</span>
+    <h2>Prácticas de Arduino</h2>
+    <p>Accede a las 14 prácticas de Arduino, con espacio para evidencias, conexiones, código y resultados.</p>
+    <span class="practice-link">VER 14 PRÁCTICAS →</span>
+  </a>
 </div>

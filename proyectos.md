@@ -14,9 +14,16 @@ nav_order: 2
     <span class="practice-link">ABRIR →</span>
   </a>
 
+  <a class="practice-card" href="{{ site.baseurl }}/brazo-robotico/">
+    <span class="practice-number">02 / ROBÓTICA</span>
+    <h2>BRAZO ROBOTICO</h2>
+    <p>Prototipo con Arduino UNO, servomotores y control mediante potenciómetros.</p>
+    <span class="practice-link">VER PROYECTO →</span>
+  </a>
+
   <div class="practice-card">
-    <span class="practice-number">02 / MECATRÓNICA</span>
+    <span class="practice-number">03 / MECATRÓNICA</span>
     <h2>Próximamente</h2>
-    <p>Espacio preparado para agregar proyectos de electrónica, programación, robótica y automatización.</p>
+    <p>Espacio para agregar más proyectos de electrónica, programación, robótica y automatización.</p>
   </div>
 </div>

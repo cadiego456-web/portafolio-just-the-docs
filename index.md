@@ -20,7 +20,7 @@ nav_order: 1
   </p>
 
   <div class="hero-buttons">
-    <a href="{{ site.baseurl }}/proyectos/" class="btn-future">VER PROYECTOS →</a>
+    <a href="{{ site.baseurl }}/proyectos.html" class="btn-future">VER PROYECTOS →</a>
     <a href="{{ site.baseurl }}/practicas/" class="btn-future-outline">VER PRÁCTICAS</a>
   </div>
 </div>

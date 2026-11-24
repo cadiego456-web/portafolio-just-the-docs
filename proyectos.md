@@ -14,7 +14,7 @@ nav_order: 2
     <span class="practice-link">ABRIR →</span>
   </a>
 
-  <a class="practice-card" href="{{ site.baseurl }}/brazo-robotico/">
+  <a class="practice-card" href="{{ site.baseurl }}/brazo-robotico.html">
     <span class="practice-number">02 / ROBÓTICA</span>
     <h2>BRAZO ROBOTICO</h2>
     <p>Prototipo con Arduino UNO, servomotores y control mediante potenciómetros.</p>
